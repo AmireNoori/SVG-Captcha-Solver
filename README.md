@@ -8,6 +8,7 @@
   <p align="center">
     A great tool for solving SVG type file captchas !
   </p>
+</div>
 
 <details>
   <summary>Table of Contents</summary>
