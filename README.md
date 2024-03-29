@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://github.com/AmireNoori/SVG-Captcha_Solver">
+    <img src="images/logo.jpg" alt="Logo" width="160" height="160">
+  </a>
+
+  <h3 align="center">SVG Captcha Solver</h3>
+
+  <p align="center">
+    A great tool for solving SVG type file captchas !
+  </p>
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
