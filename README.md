@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/AmireNoori/SVG-Captcha_Solver">
+  <a href="https://github.com/AmireNoori/SVG-Captcha-Solver">
     <img src="images/logo.jpg" alt="Logo" width="160" height="160">
   </a>
 
