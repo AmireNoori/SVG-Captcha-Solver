@@ -18,7 +18,7 @@
 
 ## About The Project
 
-<img src="images/captcha-example1.png" alt="captcha example" style="margin-right: 10px;"> <img src="images/captcha-example2.png" alt="captcha example" style="margin-right: 10px;"> <img src="images/captcha-example3.png" alt="captcha example">
+<img src="images/captcha-example1.png" alt="captcha example" style="margin-right: 10px;"> <img src="images/captcha-example2.png" alt="captcha example" style="margin-right: 10px;"> <img src="images/captcha-example3.png" alt="captcha example"> <img src="images/captcha-example4.jpg" alt="captcha example"> <img src="images/captcha-example5.jpg" alt="captcha example"> <img src="images/captcha-example6.jpg" alt="captcha example">
 
 These types of captchas do not require image processing and making special models to extract letters and image-to-text models. Because these types of captchas do not have an image nature, these captchas are a type of SVG code that, by having a decoder model, You can return the code to the adjusted text, I gave a more complete explanation of this function below .
 
