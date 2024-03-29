@@ -125,4 +125,4 @@ SOFTWARE.
 
 Amir Noori - [@AmireNoori1](https://t.me/AmireNoori1) - noorifardam@gmail.com
 
-Project Link: [https://github.com/AmireNoori/MathCapthaSolver](https://github.com/AmireNoori/SVG-captcha-Solver)
+Project Link: [https://github.com/AmireNoori/SVG-captcha-Solver](https://github.com/AmireNoori/SVG-captcha-Solver)
